@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Meiyu的博客</title>
+  <subtitle>精益求精</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-10-26T03:13:24.198Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Meiyu Liu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>about</title>
+    <link href="http://yoursite.com/2016/10/26/about/"/>
+    <id>http://yoursite.com/2016/10/26/about/</id>
+    <published>2016-10-26T03:00:52.000Z</published>
+    <updated>2016-10-26T03:13:24.198Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+    
+    
+      <category term="spark" scheme="http://yoursite.com/tags/spark/"/>
+    
+      <category term="sparkSQL" scheme="http://yoursite.com/tags/sparkSQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇文章</title>
+    <link href="http://yoursite.com/2016/10/26/first/"/>
+    <id>http://yoursite.com/2016/10/26/first/</id>
+    <published>2016-10-26T03:00:52.000Z</published>
+    <updated>2016-10-26T03:15:49.111Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是<strong>我的第一篇文章</strong>，是用hexo创建的。  </p>
+<h1 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h1><p><strong> Swing语法 </strong><br><blockquote><p>Every interaction is both precious and an opportunity to delight.  </p>
+<footer><strong>Seth Godin</strong><cite><a href="http://sethgodin.typepad.com/seths_blog/2009/07/welcome-to-island-marketing.html" target="_blank" rel="external">Welcome to Island Marketing</a></cite></footer></blockquote>  </p>
+<p><strong> Markdown语法 </strong>  </p>
+<blockquote>
+<p>Every interaction is both precious and an opportunity to delight.  </p>
+</blockquote>
+<h1 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h1><p><strong> Swing语法 </strong><br><figure class="highlight plain"><figcaption><span>compact</span><a href="http://www.baidu.com" target="_blank" rel="external">Baidu.js</a></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">  </div><div class="line">compact([0,1,false,2,&apos;&apos;,3]);  </div><div class="line">=&gt; [1,2,3]  </div></pre></td></tr></table></figure>  </p>
+<p><strong> Markdown语法 </strong>  </p>
+<pre><code class="{bash}">compact([0,1,false,2,&apos;&apos;,3]);
+</code></pre>
+<h1 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h1><p><strong> Swing语法 </strong><br><a href="http://linmuxi.github.io/nodejs-hexo" title="我的日志" target="_blank">我的日志</a>  </p>
+<p><strong> Markdown语法 </strong><br><a href="http://linmuxi.github.io/nodejs-hexo" target="_blank" rel="external">我的日志</a>  </p>
+<h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><ul>
+<li>图片，对于本地图片，需要在source目录下面新建一个images目录存放图片 *  </li>
+</ul>
+<p><strong> Swing语法 </strong><br><img class="images/1.png 这是第一张图片">  </p>
+<p><strong> Markdown语法 </strong><br><img src="images/1.png" alt="这是第一张图片">  </p>
+<p><img src="http://linmuxi.github.io/me/project/realtimeData/images/realtimeData_02.png" alt="这是第一张图片"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这是&lt;strong&gt;我的第一篇文章&lt;/strong&gt;，是用hexo创建的。  &lt;/p&gt;
+&lt;h1 id=&quot;引用&quot;&gt;&lt;a href=&quot;#引用&quot; class=&quot;headerlink&quot; title=&quot;引用&quot;&gt;&lt;/a&gt;引用&lt;/h1&gt;&lt;p&gt;&lt;strong&gt; Swing语法 &lt;/stro
+    
+    </summary>
+    
+      <category term="hexo22222" scheme="http://yoursite.com/categories/hexo22222/"/>
+    
+    
+      <category term="spark2222" scheme="http://yoursite.com/tags/spark2222/"/>
+    
+      <category term="sparkSQL2222" scheme="http://yoursite.com/tags/sparkSQL2222/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2016/10/25/hello-world/"/>
+    <id>http://yoursite.com/2016/10/25/hello-world/</id>
+    <published>2016-10-25T13:38:13.147Z</published>
+    <updated>2016-10-25T13:38:13.147Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

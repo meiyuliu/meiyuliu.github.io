@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title><![CDATA[我的第一篇文章]]></title>
-      <url>http://yoursite.com/2016/10/26/first/</url>
-      <content type="text"><![CDATA[这是我的第一篇文章，是用hexo创建的。 引用 Swing语法 Every interaction is both precious and an opportunity to delight. Seth GodinWelcome to Island Marketing Markdown语法 Every interaction is both precious and an opportunity to delight. 代码块 Swing语法 compactBaidu.js123 compact([0,1,false,2,&apos;&apos;,3]); =&gt; [1,2,3] Markdown语法 compact([0,1,false,2,&apos;&apos;,3]); 链接 Swing语法 我的日志 Markdown语法 我的日志 图片 图片，对于本地图片，需要在source目录下面新建一个images目录存放图片 * Swing语法 Markdown语法]]></content>
+      <title><![CDATA[about]]></title>
+      <url>http://yoursite.com/2016/10/26/about/</url>
+      <content type="text"></content>
     </entry>
 
     
     <entry>
-      <title><![CDATA[about]]></title>
-      <url>http://yoursite.com/2016/10/26/about/</url>
-      <content type="text"></content>
+      <title><![CDATA[我的第一篇文章]]></title>
+      <url>http://yoursite.com/2016/10/26/first/</url>
+      <content type="text"><![CDATA[这是我的第一篇文章，是用hexo创建的。 引用 Swing语法 Every interaction is both precious and an opportunity to delight. Seth GodinWelcome to Island Marketing Markdown语法 Every interaction is both precious and an opportunity to delight. 代码块 Swing语法 compactBaidu.js123 compact([0,1,false,2,&apos;&apos;,3]); =&gt; [1,2,3] Markdown语法 compact([0,1,false,2,&apos;&apos;,3]); 链接 Swing语法 我的日志 Markdown语法 我的日志 图片 图片，对于本地图片，需要在source目录下面新建一个images目录存放图片 * Swing语法 Markdown语法]]></content>
     </entry>
 
     
